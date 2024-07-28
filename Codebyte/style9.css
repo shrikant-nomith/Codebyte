@@ -1,0 +1,100 @@
+/* Container holding the image and the text */
+html{
+    background-color:black;
+  }
+  .container {
+      position: relative;
+      text-align: left;
+      color: white;
+    }
+    
+  
+    .centered {
+      position: absolute;
+      top: 20%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 50px;
+  
+      
+          font-family: "Protest Revolution", sans-serif;
+          font-weight: 400;
+          font-style: normal;
+        }
+        .gobig{position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -60%);
+          font-size: 46px;
+          color:white;
+          
+          
+          
+            font-family: "Stylish", serif;
+            font-weight: 400;
+            font-style: normal;
+          
+          
+  }
+  .gobig1{position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    font-size: 46px;
+    color:white;
+    ;
+    
+    
+    
+      font-family: "Stylish", serif;
+      font-weight: 400;
+      font-style: normal;
+    
+    
+  }
+  .gobig2{position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    font-size: 46px;
+    color:white;
+    
+    
+    
+      font-family: "Stylish", serif;
+      font-weight: 400;
+      font-style: normal;
+    
+    
+  }
+  
+  .btn-group button {
+      background-color: #10075c; 
+      
+      color: white; 
+      padding: 10px 24px; 
+      cursor: pointer; 
+      height: 50px;
+      width: 50%; 
+      display: block; 
+      margin-top: 5%;
+      border-radius: 12px;
+      transform: translate(-0%, -100%);
+    }
+    
+    .btn-group button:not(:last-child) {
+      border-bottom: none;
+    }
+    .btn-group button:hover {
+      background-color: #3e8e41;
+    }
+    .socialicons{
+      background-color: aliceblue;
+    }
+    
+    
+  
+      
+    
+  
+  
